@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 .env
 venv/
-
+.DS_Store
 
 # SQLite database files
 
@@ -129,4 +129,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
